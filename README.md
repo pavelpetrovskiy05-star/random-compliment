@@ -10,7 +10,7 @@
 
 ## Быстрый старт
 1. Клонируем репозиторий:
-git clone <URL вашего репозитория>
+git clone (https://github.com/pavelpetrovskiy05-star/random-compliment)
 2. Переходим в папку:
 cd random-compliment
 3. Запускаем:
